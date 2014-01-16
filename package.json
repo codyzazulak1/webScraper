@@ -1,0 +1,22 @@
+{
+  "name": "derp",
+  "version": "0.0.0",
+  "description": "webScraper ==========",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codyzazulak1/webScraper.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/codyzazulak1/webScraper/issues"
+  },
+  "dependencies": {
+    "request": "~2.31.0",
+    "cheerio": "~0.13.1"
+  }
+}
